@@ -1,7 +1,7 @@
 # SON Algorithm Implementation with Spark
 
 ## Overview
-This assignment focuses on implementing the SON Algorithm using the Spark Framework to identify frequent itemsets within large datasets. 
+This assignment contains the implementation of the SON Algorithm using the Spark Framework, aimed at finding frequent itemsets within large datasets. The project is structured around two main tasks: analyzing a simulated dataset and a real-world dataset, specifically the Ta Feng dataset, to uncover patterns of frequent itemsets. It showcases the application of distributed computing techniques to efficiently process and analyze data at scale in a Spark environment. The code strictly adheres to Python's standard libraries, emphasizing the core functionality of Spark RDDs to understand and leverage Spark operations for big data analysis.
 
 ## Datasets
 There are one simulated dataset and one real-world dataset, starting with task1 on the simulated CSV file provided, then moving to task2 with the Ta Feng dataset to simulate similar data structures.
